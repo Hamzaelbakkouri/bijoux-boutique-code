@@ -1,1 +1,29 @@
+@media (max-width: 1120px) {}
 
+.biggallery {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(240, 240, 240);
+    height: 70%;
+}
+
+.title{
+    font-size: 70px;
+    width: 39%;
+    text-align: center;
+    margin: 10px 29%;
+}
+
+.biggallery {
+    box-sizing: border-box;
+
+    margin: 50px 13%;
+    width: 74%;
+    height: 838.96px;
+
+
+    background: rgba(217, 217, 217, 0.24);
+    border: 2.31969px solid #000000;
+    box-shadow: 15.4646px 3.09293px 15.4646px rgba(0, 0, 0, 0.25);
+    border-radius: 15.4646px;
+}
